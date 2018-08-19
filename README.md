@@ -1,11 +1,10 @@
 
 <p>✨ <strong>CryptoVue</strong> is a real-time dashboard that displays the top 10 cryptocurrencies based on currency price, market captilization and overall circulating supply. ✨</p>
 
-<p><a href="https://www.cryptovue.com/" class="btn btn-primary btn-md">Launch App</a></p>
-</div>
+![alt text](https://imgur.com/Uf1v3Qd)
 
 
-### Locally using npm
+### Running the app
 * Clone/download the repo
 
 * `cd Cryptool`
